@@ -1,0 +1,27 @@
+Senhor Juiz,
+
+Meu nome completo é:  
+ESCREVA_AQUI_SEU_NOME_COMPLETO
+
+Meu CPF é:  
+ESCREVA_AQUI_SEU_CPF
+
+Meu processo é: 
+ESCREVA_AQUI_O_NÚMERO_DO_PROCESSO
+
+Estes são meus Dados Bancários:
+> Banco: 
+ESCREVA_AQUI_O_SEU_BANCO
+
+> Agência: 
+ESCREVA_AQUI_SUA_AGÊNCIA
+
+> Conta: 
+ESCREVA_AQUI_SUA_CONTA
+
+> Tipo: 
+ESCREVA_CONTA_CORRENTE_OU_POUPANÇA
+
+Solicito, respeitosamente, a EXPEDIÇÃO DE ALVARÁ dos valores a que eu tenho direito para a minha conta bancária acima indicada, conforme documentação anexa.
+
+ANEXAR FOTO DE COMPROVANTE DE IDENTIDADE
